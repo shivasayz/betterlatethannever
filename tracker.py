@@ -313,8 +313,7 @@ class TimeTracker(QWidget):
     "The best time to start was yesterday. The next best is now.",
     "Each month is a blank page. Make it a masterpiece.",
     "Don't count the months—make the months count.",
-    "Completed months are experience. The rest are opportunity.",
-    "Consistency builds greatness, one month at a time."
+    "Completed months are experience. The rest are opportunity."
 ])
 
 
