@@ -72,3 +72,11 @@ A motivational quote is displayed just below the year title and above the month 
 
 The current date and time are shown in real-time at the bottom of the window, updating every second.
 
+## **Screen Shorts**
+
+### Screen Short 1
+![Screenshot - 1](screenshorts/Capture1.PNG)
+
+### Screen Short 2
+![Screenshot - 2](screenshorts/Capture2.PNG)
+
