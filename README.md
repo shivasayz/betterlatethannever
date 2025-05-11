@@ -1,6 +1,6 @@
-# **Never Too Late - Time Tracker**
+# **Better Late Than Never - Time Tracker**
 
-The **"Never Too Late"** Time Tracker is a motivational app designed to help you track your progress throughout the year. With visual progress bars for each month, dynamic date and time, and inspirational quotes, this app reminds you that every day is a new opportunity to start fresh.
+The **"Better Late Than Never"** Time Tracker is a motivational app designed to help you track your progress throughout the year. With visual progress bars for each month, dynamic date and time, and inspirational quotes, this app reminds you that every day is a new opportunity to start fresh.
 
 
 ## **Features**
